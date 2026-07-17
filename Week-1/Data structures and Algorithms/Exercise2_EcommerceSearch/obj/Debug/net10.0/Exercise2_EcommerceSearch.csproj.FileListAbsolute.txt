@@ -1,0 +1,14 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\bin\Debug\net10.0\Exercise2_EcommerceSearch.exe
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\bin\Debug\net10.0\Exercise2_EcommerceSearch.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\bin\Debug\net10.0\Exercise2_EcommerceSearch.runtimeconfig.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\bin\Debug\net10.0\Exercise2_EcommerceSearch.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\bin\Debug\net10.0\Exercise2_EcommerceSearch.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\refint\Exercise2_EcommerceSearch.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\Exercise2_EcommerceSearch.genruntimeconfig.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise2_EcommerceSearch\obj\Debug\net10.0\ref\Exercise2_EcommerceSearch.dll

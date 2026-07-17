@@ -1,0 +1,14 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\bin\Debug\net10.0\Exercise1_InventoryManagementSystem.exe
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\bin\Debug\net10.0\Exercise1_InventoryManagementSystem.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\bin\Debug\net10.0\Exercise1_InventoryManagementSystem.runtimeconfig.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\bin\Debug\net10.0\Exercise1_InventoryManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\bin\Debug\net10.0\Exercise1_InventoryManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\refint\Exercise1_InventoryManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\Exercise1_InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise1_InventoryManagementSystem\obj\Debug\net10.0\ref\Exercise1_InventoryManagementSystem.dll

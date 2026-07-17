@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziTuW9rVsf8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devic\\Documents\\Deep Skilling 1\\week2\\ASP.NET Core 8.0 Web API\\3.WebApi_Handson\\EmployeeApi\\EmployeeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devic\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\microsoft.aspnetcore.mvc.webapicompatshim\\2.2.0\\microsoft.aspnetcore.mvc.webapicompatshim.2.2.0.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\devic\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\devic\\Documents\\Deep Skilling 1\\week2\\ASP.NET Core 8.0 Web API\\3.WebApi_Handson\\EmployeeApi\\EmployeeApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\devic\\Documents\\Deep Skilling 1\\week2\\ASP.NET Core 8.0 Web API\\3.WebApi_Handson\\EmployeeApi\\EmployeeApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 10.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\devic\\Documents\\Deep Skilling 1\\week2\\ASP.NET Core 8.0 Web API\\3.WebApi_Handson\\EmployeeApi\\EmployeeApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\devic\\Documents\\Deep Skilling 1\\week2\\ASP.NET Core 8.0 Web API\\3.WebApi_Handson\\EmployeeApi\\EmployeeApi.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\bin\Debug\net10.0\CalcLibrary.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\bin\Debug\net10.0\CalcLibrary.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\bin\Debug\net10.0\CalcLibrary.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\refint\CalcLibrary.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\CalcLibrary.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Nunit and Moq\Nunit\CalcLibrary\obj\Debug\net10.0\ref\CalcLibrary.dll

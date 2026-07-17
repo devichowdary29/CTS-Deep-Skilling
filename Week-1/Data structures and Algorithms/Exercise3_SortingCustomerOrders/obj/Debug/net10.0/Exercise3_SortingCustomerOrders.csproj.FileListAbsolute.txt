@@ -1,0 +1,14 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\bin\Debug\net10.0\Exercise3_SortingCustomerOrders.exe
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\bin\Debug\net10.0\Exercise3_SortingCustomerOrders.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\bin\Debug\net10.0\Exercise3_SortingCustomerOrders.runtimeconfig.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\bin\Debug\net10.0\Exercise3_SortingCustomerOrders.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\bin\Debug\net10.0\Exercise3_SortingCustomerOrders.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\refint\Exercise3_SortingCustomerOrders.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\Exercise3_SortingCustomerOrders.genruntimeconfig.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise3_SortingCustomerOrders\obj\Debug\net10.0\ref\Exercise3_SortingCustomerOrders.dll

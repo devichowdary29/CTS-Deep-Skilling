@@ -1,0 +1,14 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\bin\Debug\net10.0\Exercise4_EmployeeManagementSystem.exe
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\bin\Debug\net10.0\Exercise4_EmployeeManagementSystem.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\bin\Debug\net10.0\Exercise4_EmployeeManagementSystem.runtimeconfig.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\bin\Debug\net10.0\Exercise4_EmployeeManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\bin\Debug\net10.0\Exercise4_EmployeeManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\refint\Exercise4_EmployeeManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\Exercise4_EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise4_EmployeeManagementSystem\obj\Debug\net10.0\ref\Exercise4_EmployeeManagementSystem.dll

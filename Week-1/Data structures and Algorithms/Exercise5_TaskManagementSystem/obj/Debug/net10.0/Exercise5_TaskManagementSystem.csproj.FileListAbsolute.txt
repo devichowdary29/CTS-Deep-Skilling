@@ -1,0 +1,14 @@
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\bin\Debug\net10.0\Exercise5_TaskManagementSystem.exe
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\bin\Debug\net10.0\Exercise5_TaskManagementSystem.deps.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\bin\Debug\net10.0\Exercise5_TaskManagementSystem.runtimeconfig.json
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\bin\Debug\net10.0\Exercise5_TaskManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\bin\Debug\net10.0\Exercise5_TaskManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.AssemblyInfo.cs
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\refint\Exercise5_TaskManagementSystem.dll
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.pdb
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\Exercise5_TaskManagementSystem.genruntimeconfig.cache
+C:\Users\devic\Documents\Deep Skilling 1\Week-1\Data structures and Algorithms\Exercise5_TaskManagementSystem\obj\Debug\net10.0\ref\Exercise5_TaskManagementSystem.dll
