@@ -1,0 +1,11 @@
+{
+  "courses": [
+    { "id": 1, "name": "Angular Basics", "code": "ANG101", "credits": 3, "gradeStatus": "passed" },
+    { "id": 2, "name": "Advanced TypeScript", "code": "TS201", "credits": 4, "gradeStatus": "pending" },
+    { "id": 3, "name": "State Management with NgRx", "code": "NGRX301", "credits": 4, "gradeStatus": "failed" },
+    { "id": 4, "name": "RxJS Masterclass", "code": "RXJS401", "credits": 3, "gradeStatus": "passed" },
+    { "id": 5, "name": "Testing Angular Apps", "code": "TEST501", "credits": 0, "gradeStatus": "pending" }
+  ],
+  "students": [],
+  "enrollments": []
+}

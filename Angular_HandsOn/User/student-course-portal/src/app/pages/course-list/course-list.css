@@ -1,0 +1,40 @@
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.search-section {
+  margin-bottom: 2rem;
+}
+
+.search-section input {
+  width: 100%;
+  max-width: 500px;
+  padding: 1rem 1.5rem;
+  border-radius: 9999px;
+  border: 1px solid var(--glass-border);
+  background: rgba(30, 41, 59, 0.5);
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 1rem;
+  transition: all var(--transition-fast);
+  backdrop-filter: var(--glass-blur);
+}
+
+.search-section input:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+  background: var(--bg-card);
+}
+
+.error-msg {
+  color: var(--error);
+  padding: 1rem;
+  background: rgba(239, 68, 68, 0.1);
+  border-left: 4px solid var(--error);
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,27 @@
+<h2>Course List</h2>
+
+<div class="search-section">
+  <input type="text" [(ngModel)]="searchTerm" (ngModelChange)="onSearchChange()" placeholder="Search courses...">
+</div>
+
+<p *ngIf="isLoading$ | async">Loading courses...</p>
+<p *ngIf="error$ | async as error" class="error-msg">{{ error.message || 'An error occurred' }}</p>
+
+<div *ngIf="(isLoading$ | async) === false && (error$ | async) === null">
+  <div class="courses-grid" *ngIf="(courses$ | async) as courses">
+    <div *ngIf="courses.length > 0; else noCourses">
+      <app-course-card 
+        *ngFor="let c of courses; let i = index; trackBy: trackByCourseId" 
+        [course]="c" 
+        [routerLink]="['/courses', c.id]"
+        (enrollRequested)="onEnroll($event)">
+      </app-course-card>
+    </div>
+  </div>
+</div>
+
+<ng-template #noCourses>
+  <p>No courses available.</p>
+</ng-template>
+
+<p *ngIf="selectedCourseId">Selected course ID: {{ selectedCourseId }}</p>
